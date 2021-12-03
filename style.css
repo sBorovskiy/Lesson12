@@ -1,0 +1,20 @@
+.features-wrap{
+    min-height: 885px;
+    padding: 171px 0;
+}
+
+.features-content > a{
+    text-transform: uppercase;
+    font-family: Robooto;
+    font-weight: 500;
+    font-size: 10px;
+    color: blueviolet;
+}
+
+.features-content>h2{
+    margin-bottom: 92px;
+}
+
+.features-content>h2>a{
+    
+}
